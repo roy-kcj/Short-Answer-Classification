@@ -1,4 +1,4 @@
-# Short-Answer-Classification-COMS5790-Final-Project
+# Grading Short Answer Type Questions: A Comparative Analysis of Deep Learning vs Heuristic Approaches
 
 ## Direction 2 (research oriented. Difficulty level: easy – medium hard)
 Classification task for short answer questions. Data is provided in short_answer_grading.zip
